@@ -1,6 +1,6 @@
 ### iNotebook - Application for accessing note on the virtual Cloud
 
-##Functions :
+### Functions :
 
 1. Login
 2. Signup
@@ -10,6 +10,6 @@
 6. Create a User
 7. Display All Notes
 
-##Stack Used: MERN
+## Stack Used: MERN
 
-##Ease of Use : Context API
+## Ease of Use : Context API
